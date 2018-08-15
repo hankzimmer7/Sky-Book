@@ -2,11 +2,9 @@
 
 <img src=public/images/example-profile-pic.jpg alt="Sky Book">
 
-Bringing together the skydiving community
+Bringing together the skydiving community!
 
-**Version 1.0.0
-
-- Deployed to https://sky-book.herokuapp.com/
+- Deployed at https://sky-book.herokuapp.com/
 
 ## Purpose
 
@@ -34,11 +32,7 @@ Bringing together the skydiving community
 
 ## Team Members
 
-- [Ruohan Zhang](https://github.com/hankzimmer7)
+- [Ruohan Zhang](https://github.com/RuohanZ)
 - [Sabrina Carbo](https://github.com/sabrinacarbo)
 - [Hank Zimmer](https://github.com/hankzimmer7)
 - [Ryan Arasi](https://github.com/BrusquelyOblique)
-
-## Development 
-
-- Build using MVC format, users reach a landing page and then develop a profile, which is then saved to a mySQL database by means of the Sequelize ORM. After which, the application will authenticate the user allowing them to create posts, share essential skydiving information and review profiles of other users. The front end is rendered by means of handlebars with which works in conjunction with Express.
